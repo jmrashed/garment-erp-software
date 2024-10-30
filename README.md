@@ -38,11 +38,11 @@ Follow these steps to install the Garment ERP Software:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/garment-erp.git
+   git clone https://github.com/jmrashed/garment-erp-software.git
    ```
 2. Navigate to the project directory:
    ```bash
-   cd garment-erp
+   cd garment-erp-software
    ```
 3. Install dependencies:
    ```bash
